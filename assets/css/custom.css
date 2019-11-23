@@ -18,3 +18,11 @@ img[src$='#floatright']
   --primary: #8bc34a;
   --primary-dark: #5a9216;
 }
+
+.menu__items__item__link {
+  white-space: nowrap;
+}
+
+.copy {
+  color: white;
+}
