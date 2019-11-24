@@ -55,5 +55,4 @@ Vandringar med yoga (på din matta eller på skogens mossmatta).
 
 Urkraft och yoga, funktionell träning i skogen och release yoga.
 
-# Privata event
-Möjlighet att boka personlig träning, hyra en yogalärare till en ”kick-off”, födelsedag eller annat event.
+
