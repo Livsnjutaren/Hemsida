@@ -48,5 +48,5 @@ livsnjutaren.net@gmail.com
 Eller messas på 0702 899125
 Max 11 deltagare på detta event.
 Varmt välkomna Marie 😊
-<br>
+<br><br>
 
