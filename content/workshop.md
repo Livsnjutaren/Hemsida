@@ -16,7 +16,7 @@ Du behöver ha med dig kläder för en stund ute.
 Yogakläder för en fysisk/aktiv yoga och ombyte med sköna mjuka och bekväma kläder för den avslutande lugnande yogastunden.
 
 Var : Dahlgrensgården vid Cafeét i Tyresta.
-När: 14/12 kl. 10.30-17.00
+När: `14/12` kl. 10.30-17.00
 Pris: 850 SEK, anmälan görs på mail till: livsnjutaren.net@gmail.com eller messa på 0702899125
 Kontakta mig på mail eller på 0702 899125 för frågor och funderingar, max 12 deltagare på detta event. 
 <br><br>
