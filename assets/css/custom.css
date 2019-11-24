@@ -26,3 +26,8 @@ img[src$='#floatright']
 .copy {
   color: white;
 }
+
+.footer {
+  width: 100vw;
+  max-width: 100%;
+}
