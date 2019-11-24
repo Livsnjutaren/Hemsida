@@ -7,6 +7,22 @@ menu: main
 weight: 2
 ---
 
+{{< figure src="/images/vinter.jpg#floatright" width="50%" >}}
+# Möt vintern medvetet
+Möt vintern med medvetenhet på många plan i ett heldagsretreat som innehåller olika verktyg för att nå närvaro. Vi börjar dagen med att känna in våra fysisk kroppar via en aktiv yoga. Detta följs av lunch i cafeét i Tyresta by. 
+Efter lunchen går vi ut på en guidad vandring i urskogen, där en naturguide berättar om vad som sker i skogen om vintern. Vi ges också tillfälle att ”bromsa upp” tempot och ”lyssna inåt”. Vi ägnar de sista timmarna av dagen till mer lugna former av yoga (Yin yoga och och restorative yoga). Dessa båda yogaformer hjälper kroppen att slappna av och ger möjlighet till återhämtning då de stimulera det lugnande (parasympatiska) nervsystemet.
+Självklart ingår lunch och yogasmoothie, det kommer även att finnas frukt, te mm under dagen.
+Du behöver ha med dig kläder för en stund ute. 
+Yogakläder för en fysisk/aktiv yoga och ombyte med sköna mjuka och bekväma kläder för den avslutande lugnande yogastunden.
+
+Var : Dahlgrensgården vid Cafeét i Tyresta.
+När: 14/12 kl. 10.30-17.00
+Pris: 850 SEK, anmälan görs på mail till: livsnjutaren.net@gmail.com eller messa på 0702899125
+Kontakta mig på mail eller på 0702 899125 för frågor och funderingar, max 12 deltagare på detta event. 
+<br><br>
+Eventet ställs in vid färre än 5 anmälda.
+
+<br><br>
 {{< figure src="/images/restorative.jpg#floatright" width="50%" >}}
 # Restorative yoga
 Restorative Yoga är en meditativ och terapeutisk form av yoga som handlar om att slappna av och skapa återhämtning, fysiskt, mentalt och själsligt.

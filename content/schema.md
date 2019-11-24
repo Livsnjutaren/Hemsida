@@ -12,14 +12,15 @@ weight: 3
 Yogan kommer dels att finnas som fasta kurser med bestämda tider på schemat under veckorna enligt nedan samt annonseras under terminens gång på mina facebooksidor Mariesyoga Livsnjutaren samt Livsnjutaren.
 <br><br><br><br>
 
-**Måndagar:**\
+**Måndagar:**
 **Tisdagar:**
 
+- 19.00-20.30 Temaklasser där datum och innehåll anonseras under terminen
 
 **Onsdagar:**
 
 - 11.00-12.00 Soft soppyoga för den vardagsledige
-- 18.35-19.40 Yoga för mer vana (Hatha yoga)
+- 18.30-19.40 Yoga för mer vana (Hatha yoga)
 - 19.50-21.00 Yin yoga
 
 **Fredagar:**
@@ -51,15 +52,6 @@ Vandringar med samtal, förhoppningen är att kunna nå nyanlända kvinnor som v
 Vandringar med yoga (på din matta eller på skogens mossmatta).
 
 Urkraft och yoga, funktionell träning i skogen och release yoga.
-
-# Workshops
-Annonseras efter hand.
-
-- Hur möter vi våren enligt Ayurvedan?
-- Kärlek till tarmen.
-- Pranayama – expansion av livskraft.
-- Yogafilosofi.
-- Bastubadet/vinterbad, hur påverkar det oss?
 
 # Privata event
 Möjlighet att boka personlig träning, hyra en yogalärare till en ”kick-off”, födelsedag eller annat event.

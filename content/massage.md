@@ -16,4 +16,5 @@ Den stimulerar blodcirkulationen och cirkulationen i lymph- systemet.
 Massagen öppnar och sträcker ut kroppen med hjälp av bl.a stretchpositioner och djupa hand- och fotberöringar.
 Vägledning av andetaget under massagen ger möjlighet och uppmuntran till att fördjupa andetaget och ger stöd för ett naturligare andetag.
 
-[^1]: Kalamusroten stimulerar blodcirkulationen, är antiseptisk, tar bort dött skinn och hjälper till att ta massagen djupare in i kroppen.
+[^1] Kalamusroten stimulerar blodcirkulationen, är antiseptisk, tar bort dött skinn och hjälper till att ta massagen djupare in i kroppen.
+<br><br>

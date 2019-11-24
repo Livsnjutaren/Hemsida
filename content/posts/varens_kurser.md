@@ -11,7 +11,7 @@ tags: ["vår", "kurser" , "anmälan"]
 
 Anmäl dig via mail till: livsnjutaren.net@gmail.com
 
-Ange vilken kurs du vill anmäla dig till, exempelvis Hatha1 tisdagar (ange vilken kurs du primärt vill gå på även när du köper klipp kort).
+Ange vilken kurs du vill anmäla dig till, exempelvis Hatha onsdagar (ange vilken kurs du primärt vill gå på även när du köper klipp kort).
 
 Max 12 deltagare per klass, drop-in i mån av plats (mess till 0702899125)
 
