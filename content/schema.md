@@ -13,6 +13,7 @@ Yogan kommer dels att finnas som fasta kurser med bestämda tider på schemat un
 <br><br><br><br>
 
 **Måndagar:**
+<br>
 **Tisdagar:**
 
 - 19.00-20.30 Temaklasser där datum och innehåll anonseras under terminen
