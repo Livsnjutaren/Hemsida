@@ -19,9 +19,7 @@ weight: 4
 * Drop-in ungdom/senior[^1] 100 SEK
 * Privat yogaklass 800 SEK per timme (2 personer 1200 SEK)
 * Ayurvedisk massage, 75 min 750 SEK
-
-* Privata event
-Möjlighet att boka personlig träning, hyra en yogalärare till en ”kick-off”, födelsedag eller annat event.
+*Privata event Möjlighet att boka personlig träning, hyra en yogalärare till en ”kick-off”, födelsedag eller annat event.
 
 Man kan ta igen missad klass på annan tid på schemat.
 [^1] Ungdom - upp till 20 år, senior – pensionär eller förtidspensionär.
